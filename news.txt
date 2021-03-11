@@ -22,7 +22,7 @@ add_textbox|We accept payments via `3DLS (Diamond Locks) `^or Paypal (more ways 
 add_textbox|`4Warning: `^Buying Roles from impersonators/fake owners/fake sellers is YOUR FAULT, we wont Refund Anything.|left|4|
 add_spacer|small|
 add_url_button||`#GTOS Website`|NOFLAGS|https://www.gtosprivate.com/|GTOS's Official Website|left|4|
-add_url_button||`#MemeZ (owner)`|NOFLAGS|https://www.youtube.com/user/MemeZ_GT|MemeZ's channel!|left|4|
+add_url_button||`#lock (owner)`|NOFLAGS|https://www.youtube.com/user/MemeZ_GT|MemeZ's channel!|left|4|
 add_url_button||`#Sebia/'autism' (coder)`|NOFLAGS|https://www.youtube.com/c/SebiaGT|Sebia's channel!|left|4|
 add_url_button||`#HyperCold(ZexDent) (coder)`|NOFLAGS|https://www.youtube.com/channel/UC3ueayg4BhT_bNXimsneFMQ|HyperCold(ZexDent)'s channel!|left|4|
 
