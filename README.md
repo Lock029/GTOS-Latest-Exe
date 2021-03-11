@@ -1,6 +1,8 @@
 # GTOS-Latest-Exe
 GTOS LATEST EXE THIS IS NOT MY PROBLEM mal#0009 
+
 Updates : 1.32 (Current Version)
+
 Added Rift Cape, `NOT FULLY DONE YET`!
 All Latest GTOS Custom Items!
 
