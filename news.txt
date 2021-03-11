@@ -1,0 +1,35 @@
+set_default_color|`^
+
+add_label_with_icon|big|`eThe GTOS Gazette|left|5016|
+
+add_spacer|small|small|
+add_label_with_icon|big|`cGTOS 1.32!|left|18|
+add_spacer|small|
+add_image_button|banner|interface/large/gtosbanner.rttex|noflags|||
+add_spacer|small|
+
+
+add_textbox|Welcome players! We've been adding lotta updates.|left|4||
+
+add_spacer|small|add_label|big|`wGTOS 1.32 Changelogs:|left|4|
+add_label_with_icon|small|`o- `3Added Rift Cape, `4NOT FULLY DONE YET`3.|left|10424|
+add_label_with_icon|small|`o- `3Server data rollbacked, cuz of VPS data failure.|left|3006|
+add_label_with_icon|small|`o- `3Fixed Lags/Improved Server speed.|left|4|
+add_spacer|small|
+add_spacer|small|
+
+add_textbox|We accept payments via `3DLS (Diamond Locks) `^or Paypal (more ways will be added soon), prices and more info on GTOS Discord Server's channel #shop!|left|4|||
+add_textbox|`4Warning: `^Buying Roles from impersonators/fake owners/fake sellers is YOUR FAULT, we wont Refund Anything.|left|4|
+add_spacer|small|
+add_url_button||`#GTOS Website`|NOFLAGS|https://www.gtosprivate.com/|GTOS's Official Website|left|4|
+add_url_button||`#MemeZ (owner)`|NOFLAGS|https://www.youtube.com/user/MemeZ_GT|MemeZ's channel!|left|4|
+add_url_button||`#Sebia/'autism' (coder)`|NOFLAGS|https://www.youtube.com/c/SebiaGT|Sebia's channel!|left|4|
+add_url_button||`#HyperCold(ZexDent) (coder)`|NOFLAGS|https://www.youtube.com/channel/UC3ueayg4BhT_bNXimsneFMQ|HyperCold(ZexDent)'s channel!|left|4|
+
+
+add_label|small|- `wThe GTOS Server Team.|left|4|0|0|
+add_spacer|small|
+add_quick_exit|
+add_button|chc0|`oClose|noflags|0|0|
+add_spacer|small|
+nend_dialog|gazette||OK| 
