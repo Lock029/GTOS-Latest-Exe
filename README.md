@@ -1,5 +1,5 @@
 # GTOS-Latest-Exe
-GTOS LATEST EXE THIS IS NOT MY PROBLEM mal#0009 
+GTOS LATEST EXE LEAKED THIS IS NOT MY PROBLEM mal#0009 
 
 Updates : 1.32 (Current Version)
 
@@ -14,3 +14,5 @@ How To Setup??
 5. Enjoy!
 
 Note : This Leakage Is Caused Due To Mal Arrogant And Dont Even Help The Community When They Need Help Besides That Asks Them To Ping Me For No Reason, mal#0009 Device Ban Me From GTOS With A Reason Steal Exe Which Is True Cause I Knew He Would Do Something Similar Like This, Btw Dont Buy Exe From Sebia Since Its Leaked Here! Enjoy!!
+
+ANYTHING DM Time#1337
